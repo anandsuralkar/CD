@@ -14,7 +14,7 @@ STEP 6 : Now, TYPE :wq and HIT ENTER
 
 STEP 7 : EXECUTE FOLLOWING COMMANDS TO EXECUTE FLEX FILE
 	i]   flex filename.l
-	ii]  cc flex.yy.c -lfl
+	ii]  cc lex.yy.c -lfl
 	iii] ./a.out 
 
 STEP 8 : Enter Value To check OUTPUT
